@@ -91,3 +91,20 @@ Usage
 
 ________________________________________
 
+Author
+Daniel Yeboah Nortey
+
+Hi! I'm Daniel, a 17-year-old aspiring computer science student with a passion for machine learning and building impactful applications.
+
+This project is part of my journey into the world of FastAPI and predictive analytics.
+
+I'm always excited to learn, experiment, and share my projects with the community.
+
+
+🌱 Currently learning advanced Python and machine learning techniques.
+
+📫 Reach me at: norteydaniel575@gmail.com
+
+💻 Follow me on GitHub: github.com/danibwoy11
+
+🌟 Fun fact: I enjoy solving puzzles and exploring new tech!
