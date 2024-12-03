@@ -9,6 +9,7 @@ Table of Contents
 4.	Usage
 ________________________________________
 Features
+
 o	Predict sepsis likelihood using machine learning models: 
 
 o	Logistic Regression
@@ -23,6 +24,7 @@ o	Provides clear error messages for invalid inputs.
 
 ________________________________________
 Requirements
+
 o	Python 3.8 or higher
 
 o	Required libraries: 
