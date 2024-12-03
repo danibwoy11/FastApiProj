@@ -1,0 +1,24 @@
+# Ignore python cache files
+
+_pycache__/
+.pyc
+
+
+#ignore environment files
+.venv
+*.env
+*cfg
+
+#ignore
+gg.py
+Sepsis_Data_Analysis.ipynb
+fast_api.ipynb
+
+
+#ignore readme file
+
+data/README.md
+
+
+#ignore the label encoder
+models/label_encoder.pkl
